@@ -1,3 +1,8 @@
+// Nama: Fauzan Juniar Mulyana 
+// Kelas: 1A-D4
+// Prodi: D4 Teknik informatika
+// Tanggal: 27 Mar 2025
+// Nama File: main.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
