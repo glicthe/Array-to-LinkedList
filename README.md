@@ -48,3 +48,11 @@ Jakarta -> Citra -> Dodi\
 - Mengetahui Extern
 
 ## Penggambaran Awal Program
+![Penggambaran Program](ProsesAwal.png)
+
+![Isi dari Opsi](IsiOpsi.png)
+
+### **Referensi**
+> https://github.com/KhuzaimaAwan47/Array-Implementation-of-Linked-List
+> https://github.com/ChrisRackauckas/LinkedLists.jl
+> Deepseek
