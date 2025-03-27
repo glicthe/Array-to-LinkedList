@@ -2,7 +2,7 @@
 // Kelas: 1A-D4
 // Prodi: D4 Teknik informatika
 // Tanggal: 27 Mar 2025
-// Nama File: boolean.h
+// Nama File: config.h
 #ifndef BOOLEAN_H
 #define BOOLEAN_H
 #include <string.h>
