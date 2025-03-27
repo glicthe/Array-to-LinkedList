@@ -54,5 +54,7 @@ Jakarta -> Citra -> Dodi\
 
 ### **Referensi**
 > https://github.com/KhuzaimaAwan47/Array-Implementation-of-Linked-List
+> 
 > https://github.com/ChrisRackauckas/LinkedLists.jl
+>
 > Deepseek
